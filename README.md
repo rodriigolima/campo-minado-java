@@ -1,6 +1,6 @@
 # campo-minado-java :bomb: :bomb: :bomb:
 
-Este projeto foi uma forma de implementar os conteúdos que aprendir no curso de Java.
+Este projeto foi uma forma de implementar os conteúdos que aprendi no curso de Java.
 
 trabalhando com orientação a objeto e paradigma relacional (lambdas e streams).
 
