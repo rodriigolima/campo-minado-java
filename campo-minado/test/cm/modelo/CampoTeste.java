@@ -7,6 +7,8 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
+import cm.excecao.ExplosaoException;
+
 public class CampoTeste {
 	
 	private Campo campo;

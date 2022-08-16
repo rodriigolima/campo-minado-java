@@ -3,6 +3,8 @@ package cm.modelo;
 import java.util.ArrayList;
 import java.util.List;
 
+import cm.excecao.ExplosaoException;
+
 public class Campo {
 	
 	private final int linha;
@@ -70,9 +72,19 @@ public class Campo {
 		minado = true;			
 	}
 	
+	public boolean isMinado() {
+		return minado;
+	}
+	
 	public boolean isMarcado() {
 		return marcado;
 	}
+	
+	
+	void setAberto(boolean aberto) {
+		this.aberto = aberto;
+	}
+
 	public boolean isAberto() {
 		return aberto;
 	}
