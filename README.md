@@ -13,3 +13,12 @@ A aplicação é executada pelo console:
 Veja consegui ganhar 	:stuck_out_tongue: :
 
 ![image](https://user-images.githubusercontent.com/23271567/184986820-d62e14b3-0f96-4468-a92d-d1faaf16ac64.png)
+
+
+# Campo-minado-swing :bomb: :bomb: :bomb:
+
+Uma refatoração do projeto utilizando biblioteca de interface gráfica.
+
+resultado: 
+
+![image](https://user-images.githubusercontent.com/23271567/185728196-d932d0ae-d8e3-4933-83c4-3a6d47a7f1ce.png)
